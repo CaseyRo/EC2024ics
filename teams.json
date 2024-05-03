@@ -1,0 +1,122 @@
+[
+    {
+        "Name": "Albania",
+        "Flag": "🇦🇱",
+        "Group": "B"
+    },
+    {
+        "Name": "Austria",
+        "Flag": "🇦🇹",
+        "Group": "D"
+    },
+    {
+        "Name": "Belgium",
+        "Flag": "🇧🇪",
+        "Group": "E"
+    },
+    {
+        "Name": "Croatia",
+        "Flag": "🇭🇷",
+        "Group": "B"
+    },
+    {
+        "Name": "Czech Republic",
+        "Flag": "🇨🇿",
+        "Group": "F"
+    },
+    {
+        "Name": "Denmark",
+        "Flag": "🇩🇰",
+        "Group": "C"
+    },
+    {
+        "Name": "England",
+        "Flag": "🇬🇧",
+        "Group": "C"
+    },
+    {
+        "Name": "France",
+        "Flag": "🇫🇷",
+        "Group": "D"
+    },
+    {
+        "Name": "Germany",
+        "Flag": "🇩🇪",
+        "Group": "A"
+    },
+    {
+        "Name": "Georgia",
+        "Flag": "🇬🇪",
+        "Group": "F"
+    },
+    {
+        "Name": "Hungary",
+        "Flag": "🇭🇺",
+        "Group": "A"
+    },
+    {
+        "Name": "Italy",
+        "Flag": "🇮🇹",
+        "Group": "B"
+    },
+    {
+        "Name": "Netherlands",
+        "Flag": "🇳🇱",
+        "Group": "D"
+    },
+    {
+        "Name": "Poland",
+        "Flag": "🇵🇱",
+        "Group": "D"
+    },
+    {
+        "Name": "Portugal",
+        "Flag": "🇵🇹",
+        "Group": "F"
+    },
+    {
+        "Name": "Romania",
+        "Flag": "🇷🇴",
+        "Group": "E"
+    },
+    {
+        "Name": "Scotland",
+        "Flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "Group": "A"
+    },
+    {
+        "Name": "Serbia",
+        "Flag": "🇷🇸",
+        "Group": "C"
+    },
+    {
+        "Name": "Slovenia",
+        "Flag": "🇸🇮",
+        "Group": "C"
+    },
+    {
+        "Name": "Slovakia",
+        "Flag": "🇸🇰",
+        "Group": "E"
+    },
+    {
+        "Name": "Spain",
+        "Flag": "🇪🇸",
+        "Group": "B"
+    },
+    {
+        "Name": "Switzerland",
+        "Flag": "🇨🇭",
+        "Group": "A"
+    },
+    {
+        "Name": "Turkey",
+        "Flag": "🇹🇷",
+        "Group": "F"
+    },
+    {
+        "Name": "Ukraine",
+        "Flag": "🇺🇦",
+        "Group": "E"
+    }
+]

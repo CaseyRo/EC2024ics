@@ -1,0 +1,115 @@
+[
+    {
+        "ID": 1,
+        "Sides":
+        {
+            "Home": "Germany",
+            "Away": "Scotland"
+        },
+        "Summary": "",
+        "Location": "Allianz Arena, Munich",
+        "Group": "A",
+        "Time": "21:00",
+        "Date": "14-06-2024" 
+    },
+    {
+        "ID": 2,
+        "Sides":
+        {
+            "Home": "Hungary",
+            "Away": "Switzerland"
+        },
+        "Summary": "",
+        "Location": "RheinEnergieStadion, Cologne",
+        "Group": "A",
+        "Time": "21:00",
+        "Date": "14-06-2024" 
+    }
+]
+
+
+
+{
+    "get": "fixtures",
+    "parameters": {
+      "league": "4",
+      "date": "2024-06-14",
+      "season": "2024"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+      "current": 1,
+      "total": 1
+    },
+    "response": [
+      {
+        "fixture": {
+          "id": 1145509,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2024-06-14T19:00:00+00:00",
+          "timestamp": 1718391600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 700,
+            "name": "Allianz Arena",
+            "city": "München"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 4,
+          "name": "Euro Championship",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/4.png",
+          "flag": null,
+          "season": 2024,
+          "round": "Group Stage - 1"
+        },
+        "teams": {
+          "home": {
+            "id": 25,
+            "name": "Germany",
+            "logo": "https://media.api-sports.io/football/teams/25.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1108,
+            "name": "Scotland",
+            "logo": "https://media.api-sports.io/football/teams/1108.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  }
