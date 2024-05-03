@@ -5,7 +5,7 @@ def import_matches(ROOTFOLDER,HEADERS):
 
     conn = http.client.HTTPSConnection("api-football-v1.p.rapidapi.com")
 
-    conn.request("GET", "/v3/fixtures?league=4&season=2024", headers=headers)
+    conn.request("GET", "/v3/fixtures?league=4&season=2024", headers=HEADERS)
 
     res = conn.getresponse()
     data = res.read()
