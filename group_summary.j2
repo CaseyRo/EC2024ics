@@ -1,0 +1,7 @@
+{%- for key,ranking in rankings.items() -%}
+{%- if key | lower == group | lower -%}
+{%- for teams in ranking -%}
+{{teams.rank}} {{ teams.team }} {{teams.flag}} ➡️ {{teams.points}} ({{teams.goalsDiff}}) {{teams.form}}
+{% endfor %}
+{%- endif -%}
+{%- endfor -%}

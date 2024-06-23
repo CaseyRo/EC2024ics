@@ -1,1 +1,3 @@
-{{home}}{%if homescore %}{{homescore}} - {{awayscore}}{%else %} - {%endif%}{{away}}{%if halftimescore %} (HT: {{halftimescore}}) {%endif%} {{group}}
+{{id}}{{home.flag}} {{home.name}}{%if homescore %} {{homescore}} - {{awayscore}} {%else %} - {%endif%}{{away.name}}
+{{away.flag}}{%if halftimescore %}
+(HT:{{halftimescore}}) {%endif%} {{(group)}}

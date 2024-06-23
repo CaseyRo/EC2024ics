@@ -1,0 +1,17 @@
+{{league.name}} {{league.season}}
+{{fixture.venue.name}}, {{fixture.venue.city}}
+{{league.round}}
+
+{{groupUrl}}
+
+{%if events%}
+Details:
+{%- for event in events.values() -%}
+{% if event.team == home.id %}
+{{home.flag}}
+{%- else %}
+{{away.flag}}
+{%- endif -%}
+{{event.time}}": {{event.score}}, {{event.player}} {% if event.assist%}({{event.assist}}){%- endif -%}
+{% endfor%}
+{%endif -%}

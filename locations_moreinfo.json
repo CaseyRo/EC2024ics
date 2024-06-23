@@ -31,8 +31,18 @@
             "image": "https://media.api-sports.io/football/venues/700.png"
         },
         {
+            "id": 700,
+            "name": "Fußball Arena München",
+            "address": "Werner-Heisenberg-Allee 25",
+            "city": "München",
+            "country": "Germany",
+            "capacity": 75024,
+            "surface": "grass",
+            "image": "https://media.api-sports.io/football/venues/700.png"
+        },
+        {
             "id": 714,
-            "name": "Merkur Spiel-Arena",
+            "name": "Düsseldorf Arena",
             "address": "Arena-Str. 1",
             "city": "Düsseldorf",
             "country": "Germany",
@@ -92,7 +102,7 @@
         },
         {
             "id": 19381,
-            "name": "SIGNAL IDUNA PARK",
+            "name": "BVB Stadion Dortmund",
             "address": "Strobelalle 50",
             "city": "Dortmund",
             "country": "Germany",
@@ -132,7 +142,7 @@
         },
         {
             "id": 10491,
-            "name": "Deutsche Bank Park",
+            "name": "Frankfurt Arena",
             "address": "Mörfelder Landstr. 362",
             "city": "Frankfurt am Main",
             "country": "Germany",
@@ -162,7 +172,7 @@
         },
         {
             "id": 20473,
-            "name": "MHPArena",
+            "name": "Stuttgart Arena",
             "address": "Mercedesstrasse 87",
             "city": "Stuttgart",
             "country": "Germany",
@@ -172,7 +182,7 @@
         },
         {
             "id": 738,
-            "name": "Red Bull Arena",
+            "name": "Leipzig Stadium",
             "address": "Am Sportforum 3",
             "city": "Leipzig",
             "country": "Germany",
@@ -362,7 +372,7 @@
         },
         {
             "id": 731,
-            "name": "RheinEnergieStadion",
+            "name": "Cologne Stadium",
             "address": "Aachener Str. 999",
             "city": "Köln",
             "country": "Germany",
@@ -1682,7 +1692,7 @@
         },
         {
             "id": 11975,
-            "name": "Parkstadion",
+            "name": "Arena AufSchalke",
             "address": "Ernst-Kuzzora-Weg 1",
             "city": "Gelsenkirchen",
             "country": "Germany",

@@ -1,7 +1,10 @@
 import http.client
+import requests
+import requests_cache
 
 def import_matches(ROOTFOLDER,HEADERS):
-    ROOTFOLDER = '/home/coder/project/datapi/py_EC2024'
+
+    requests_cache.install_cache('all_match_cache', expire_after=3600)
 
     conn = http.client.HTTPSConnection("api-football-v1.p.rapidapi.com")
 

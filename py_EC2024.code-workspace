@@ -1,8 +1,14 @@
 {
-    "folders": [
+	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../py_numbercreation"
+		},
+		{
+			"path": "../py_bs"
 		}
 	],
-    "settings": {}
+	"settings": {}
 }

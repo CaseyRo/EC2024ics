@@ -4,7 +4,11 @@
         "Location": "Allianz Arena, München"
     },
     {
-        "Location": "RheinEnergieStadion, Köln",
+        "More info": "https://www.uefa.com/euro2024/event-guide/munich/stadium/",
+        "Location": "Fußball Arena München"
+    },
+    {
+        "Location": "Cologne Stadiumn, Köln",
         "More info": "https://www.uefa.com/euro2024/event-guide/cologne/stadium/"
     },
     {
@@ -12,11 +16,11 @@
         "More info": "https://www.uefa.com/euro2024/event-guide/berlin/stadium/"
     },
     {
-        "Location": "SIGNAL IDUNA PARK, Dortmund",
+        "Location": "BVB Stadion Dortmund",
         "More info": "https://www.uefa.com/euro2024/event-guide/dortmund/stadium/"
     },
     {
-        "Location": "MHP Arena, Stuttgart",
+        "Location": "Stuttgart Arena, Stuttgart",
         "More info": "https://www.uefa.com/euro2024/event-guide/Stuttgart/stadium/"
     },
     {
@@ -24,19 +28,19 @@
         "More info": "https://www.uefa.com/euro2024/event-guide/Stuttgart/stadium/"
     },
     {
-        "Location": "VELTINS-Arena, Gelsenkirchen",
+        "Location": "Arena AufSchalke, Gelsenkirchen",
         "More info": "https://www.uefa.com/euro2024/event-guide/Gelsenkirchen/stadium/"
     },
     {
-        "Location": "Merkur Spiel-Arena, Düsseldorf",
+        "Location": "Düsseldorf Arena",
         "More info": "https://www.uefa.com/euro2024/event-guide/Dusseldorf/stadium/"
     },
     {
         "More info": "https://www.uefa.com/euro2024/event-guide/Frankfurt/stadium/",
-        "Location": "Deutsche Bank Park, Frankfurt am Main"
+        "Location": "Frankfurt Arena"
     },
     {
-        "Location": "Red Bull Arena, Leipzig",
+        "Location": "Leipzig Stadium",
         "More info": "https://www.uefa.com/euro2024/event-guide/Leipzig/stadium/"
     },
     {
